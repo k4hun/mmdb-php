@@ -1,0 +1,352 @@
+body {
+	color:white;
+	font-family:Verdana;
+	font-size:10px;
+	font-weight:bold;
+	margin:0px;
+	}
+
+.input {
+	border:solid 1px #1c1d21;
+	width:150px;
+	text-align:center;
+	font-size:10px;
+	font-family:Verdana;
+	}
+
+.submit {
+	background-color:#1c1d21;
+	color:#fff;
+	border:solid 1px #1c1d21;
+	width:70px;
+	text-align:center;
+	font-size:10px;
+	font-family:Verdana;
+	}
+
+a {
+	text-decoration:none;
+	font-weight:bold;
+	color:white;
+	}
+
+a:hover {
+	
+	text-decoration:underline;
+	}
+
+#top  {
+	float:left;
+	height:47px;
+	background-color:#445878;
+	width:100%;
+	}
+
+#tc {
+	width:1000px;
+	height:47px;
+	}
+
+#main {
+	width:1000px;
+	padding:0px;
+	margin:0px;
+	}
+
+#top1, #top2, #top3, #top4 {
+	height:47px;
+	float:left;
+	}
+
+#top1 {
+	background:url(images/top_01.gif);
+	width:237px;
+	}
+
+#top2 {
+	width:248px;
+	}
+
+#top3 {
+	width:259px;
+	}
+
+#top4 {
+	width:256px;
+	}
+
+#stats {
+	background:url(images/stats.gif);
+	float:left;
+	width:237px;
+	height:165px;
+	}
+
+#logo {
+	background:url(images/logo.gif);
+	float:left;
+	width:763px;
+	height:165px;
+	}
+
+#sep {
+	background:url(images/sep.gif);
+	float:left;
+	width:1000px;
+	height:47px;
+	}
+
+#sep2 {
+	background:url(images/sep_02.gif);
+	float:left;
+	width:1000px;
+	height:9px;
+	}
+
+#news {
+	text-align:left;
+	width:237px;
+	float:left;
+	}
+
+#news_top {
+	background:url(images/news_top.png);
+	width:237px;
+	height:63px;
+	float:left;
+	}
+
+#news_last {
+	background:url(images/news_last.gif);
+	width:237px;
+	height:91px;
+	float:left;
+	}
+
+#news_sep {
+	background:url(images/news_sep.gif);
+	width:237px;
+	height:67px;
+	float:left;
+	}
+
+#news_new {
+	background:url(images/news_new.gif);
+	width:237px;
+	height:21px;
+	float:left;
+	}
+
+#news_new_bg {
+	background:url(images/news_new_bg.png) repeat-y;
+	width:237px;
+	float:left;
+	}
+
+#news_bott {
+	background:url(images/news_bott.gif);
+	width:237px;
+	height:27px;
+	float:left;
+	}
+
+#lista {
+	width:763px;
+	float:right;
+	/*border-style:solid;
+	border-width:1px; */
+	}
+
+#lista_top {
+	background:url(images/lista_top.gif);
+	width:763px;
+	height:33px;
+	float:left;
+	}
+
+#tab_top, #tab_alb_top {
+	width:763px;
+	height:30px;
+	float:left;
+	}
+
+#tab_top {
+	background:url(images/tab_top.gif);
+	}
+
+#tab_alb_top {
+	background:url(images/tab_alb_top.gif);
+	}
+
+#tab_bg {
+	background:url(images/tab_bg.gif) repeat-y;
+	width:763px;
+	float:left;
+	}
+
+#tab_bott {
+	background:url(images/tab_bott.gif);
+	width:763px;
+	height:73px;
+	float:left;
+	}
+
+#tab {
+	padding-top:0px;
+	padding-bottom:0px;
+	padding-left:16px;
+	float:left;
+	width:721px;
+	}
+
+#id, #autor, #album, #link {
+    padding-top:2px;
+	padding-bottom:3px;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-color:#445878;
+	}
+
+#id {
+	height:12px;
+	width:68px;
+	float:left;
+	}
+
+#autor {
+	height:12px;
+	width:290px;
+	float:left;
+	}
+
+#album {
+	height:12px;
+	width:160px;
+	float:left;
+	}
+
+#link {
+	height:12px;
+	width:198px;
+	float:left;
+	}
+
+#str {
+	width:100px;
+	height:12px;
+	float:left;
+	padding-left:350px;
+	padding-top:35px;
+	font-size:10px;
+	}
+
+#news_txt {
+	width:160px;
+	margin-left:35px;
+	}
+
+#ilealb, #ilewyk, #size {
+	width:80px;
+	margin-left:160px;
+	}
+
+#ilealb {
+	margin-top:52px;
+	}
+
+#ilewyk {
+	margin-top:20px;
+	}
+
+#size {
+	margin-top:18px;
+	}
+
+#lastwyk {
+	width:160px;
+	margin-left:37px;
+	margin-top:25px;
+	}
+
+#lastalb {
+	width:160px;
+	margin-left:37px;
+	margin-top:30px;
+	}
+
+#info {
+	text-align:left;
+	width:350px;
+	height:23px;
+	float:left;
+	margin-left:200px;
+	margin-top:10px;
+	}
+
+#search {
+	background:url(images/search_bg.gif);
+	width:763px;
+	float:left;
+	}
+
+#search_bott {
+	background:url(images/search_bott.gif);
+	width:763px;
+	height:10px;
+	float:left;
+	}
+
+#search_result_l, #search_result_r, #search_form_l, #search_form_r {
+	text-align:center;
+	width:347px;
+	height:auto;
+	padding-bottom:5px;
+	float:left;
+	}
+
+#search_result_l, #search_form_l {
+	margin-left:25px;
+	text-align:center;
+	}
+
+#logform {
+	text-align:center;
+	width:510px;
+	margin-left:200px;
+	margin-top:10px;
+	margin-bottom:10px;
+	}
+
+#login {
+	float:left;
+	width:170px;
+	height:30px;
+	}
+
+#reglink {
+	width:200px;
+	height:20px;
+	margin-left:100px;
+	margin-bottom:5px;
+	}
+
+#logstat {
+	text-align:left;
+	margin-top:10px;
+	margin-left:250px;
+	}
+
+#admmenu {
+	text-align:center;
+	border:solid 1px;
+	margin-left:20px;
+	width:150px;
+	}
+
+#oper {
+	text-align:left;
+	width:400px;
+	float:left;
+	margin-left:20px;
+	margin-bottom:5px;
+	}
